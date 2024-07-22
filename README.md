@@ -11,7 +11,7 @@ Soy estudiante de séptimo semestre de **Ingeniería en Tecnologías de Internet
 - **HTML5** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
 - **CSS3** ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 - **Bases de datos con SQL**
-- **Manejo de Git y GigtHub**
+- **Manejo de Git y GitHub**
 - **Autodidacta**
 - **Manejo de Model View Controller**
 - **Desarrollo Web**: Creación de sitios web interactivos y responsivos, integración de tecnologías front-end y back-end.
